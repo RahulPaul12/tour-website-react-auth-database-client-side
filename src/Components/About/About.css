@@ -1,0 +1,14 @@
+body{
+    background-image: url("../../image/index.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+.body2{
+    
+    background-color: rgba(148, 247, 214, 0.664);
+    width: 70%;
+   margin: auto;
+   border-radius: 20px;
+}

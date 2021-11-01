@@ -1,0 +1,6 @@
+.bg{
+    width: 100%;
+    background-color: rgba(30, 205, 236, 0.815);
+    position: fixed;
+    bottom: 0;
+}

@@ -1,0 +1,11 @@
+.service {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    
+}
+.blog{
+    background-color: rgba(0, 191, 255, 0.589);
+    padding: 15px;
+    border-radius: 10px;
+}

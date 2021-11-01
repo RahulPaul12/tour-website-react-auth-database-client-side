@@ -1,0 +1,15 @@
+.service {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    
+}
+.h1{
+    margin: auto;
+    text-align: center;
+    color: deeppink;
+}
+.h5 img{
+
+    width: 10%;
+}

@@ -1,0 +1,17 @@
+.services img{
+  width: 100%;
+
+}
+.services{
+    background-color: rgb(217, 237, 240);
+    border-radius: 20px;
+   
+}
+.btn{
+    width: 80%;
+    align-items: center;
+
+}
+h5{
+  color: darkorange;
+}
